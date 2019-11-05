@@ -1,0 +1,5 @@
+# CheckPoint
+Alarm for daily accountability
+
+This application is developed to keep track of checkpoint(s) that an application monitoring engineering or an associate need to execute. Checkpoint is a specific time at which the responsible person has either to run a query, take snapshot of certain thing(s) and email them to report status to respective team or individual, or do both or something else.
+Checkpoints are conveyed via Email. The person just has to save the email in particular folder. Also he needs to update his/her name as in the email in name.ss file in particular folder to sort by name. Rest task is done by the DAILY application is saves the entire task marked on your name in Schedule folder. Also it will remind you by giving popup on the screen 15 minutes and 3 minutes before the checkpoint

@@ -8,6 +8,7 @@ Also the same list is saved into a text file at location: ~\\schedule\\Your_sche
 
 
 #@ HOW TO RUN:
+download and extract the zip file into folder where the user have R/W permissons
 user have to carry following steps:
   1.The person just has to save the email in particular folder as .txt file.(If there is aready existing file save, delete it and save the newest one)
   2.He/she needs to update his/her name as in the email in "name.ss" file in particular folder to sort by name. 

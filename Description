@@ -13,4 +13,4 @@ user have to carry following steps:
   2.He/she needs to update his/her name as in the email in "name.ss" file in particular folder to sort by name. 
   3.Run extract.py scrip and relax till the alarm pops up 
 Rest task is done by the DAILY application is saves the entire task marked on your name in Schedule folder. 
-Also it will remind you by giving popup on the screen 15 minutes and 3 minutes before the checkpoint
+Also it will remind you by giving popup on the screen 15 minutes and 5 minutes before the checkpoint

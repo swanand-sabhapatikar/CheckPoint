@@ -1,0 +1,16 @@
+This application is developed to keep track of checkpoint(s) that an application monitoring engineering or an associate need to execute. 
+@HOW THE PROGRAM WORK
+When the user run the extract.py script, it will fist read the file stored at location : ~\\past_here
+From the file, it will extract only required text and rest is ignored
+A list is created from the required extracted text.
+The list is then used to create alarm or pop up on the screen 15 and 5 min before the actual checkpoint timing.
+Also the same list is saved into a text file at location: ~\\schedule\\Your_schedule.txt
+
+
+#@ HOW TO RUN:
+user have to carry following steps:
+  1.The person just has to save the email in particular folder as .txt file.(If there is aready existing file save, delete it and save the newest one)
+  2.He/she needs to update his/her name as in the email in "name.ss" file in particular folder to sort by name. 
+  3.Run extract.py scrip and relax till the alarm pops up 
+
+

@@ -186,7 +186,7 @@ def sortTheList(lt):
 
 #This function takes input form the Exctact.py script and remove unwanted date and process further.
 ##@part 1 
-# "ll" is  list containing values, where each value containg three value : task_name,name_of_person_responsible_for_task,time_of_checkpoint
+## "ll" is  list containing values, where each value containg two value : task_name,time_of_checkpoint
 #for each value of the list "ll", this program picks time_of_checkpoint and add to another list "TimestampToSort" to further sort the list into assending order, hence ordering the time_of_checkpoint in ascending order
 ##@part 2
 #same ll(the list input) is used to create dictionary, with key value as time of checkpoint and its values will be all the checkpoint for that time.
